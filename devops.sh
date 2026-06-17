@@ -2,10 +2,7 @@
 
 
 
-systemctl status httpd
-systemctl start httpd
 
-
-dg -h
+df -h
 ls -ltr
 ps -ef | grep linux
